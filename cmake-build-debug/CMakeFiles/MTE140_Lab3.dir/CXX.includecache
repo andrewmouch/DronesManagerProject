@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/drones_manager.cpp
+drones_manager.hpp
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/drones_manager.hpp
+
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/drones_manager.hpp
+string
+-
+iostream
+-
+
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/drones_manager_test.hpp
+drones_manager.hpp
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/drones_manager.hpp
+
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/lab3_main.cpp
+iostream
+-
+string
+-
+drones_manager_test.hpp
+C:/Users/drewe/Documents/Mechatronics Engineering/1B/MTE140 - Data Structures and Algorithms/MTE140_Lab3/drones_manager_test.hpp
+
