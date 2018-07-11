@@ -1,5 +1,3 @@
-// Andrew Mouchantaf 20708318
-// Gerry Saporito 20715429
 #include "drones_manager.hpp"
 
 DronesManager::DronesManager() {
