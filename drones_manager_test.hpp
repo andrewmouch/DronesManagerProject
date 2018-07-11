@@ -1,5 +1,3 @@
-// Andrew Mouchantaf 20708318
-// Gerry Saporito 20715429
 #ifndef DRONES_MANAGER_TEST
 #define DRONES_MANAGER_TEST
 
